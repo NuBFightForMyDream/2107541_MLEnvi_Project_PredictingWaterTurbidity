@@ -5,6 +5,8 @@ Chulalongkorn University, Faculty of Engineering
 
 **Contributor:** Chatrphol Ovanonchai (6730084521)
 
+![CoverPage](https://github.com/NuBFightForMyDream/2107541_MLEnvi_Project_PredictingWaterTurbidity/blob/main/CoverPage.png)
+
 **Live visualizer:** [Click Here](https://2107541-final-project-waterturbidity.netlify.app/)
 
 **Disclaimer from Contributor** 
